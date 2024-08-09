@@ -13,7 +13,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/cardrank/cardrank"
+	"github.com/ericcarrgh/cardrank"
 )
 
 // references:
