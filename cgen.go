@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/cardrank/cardrank"
+	"github.com/ericcarrgh/cardrank"
 )
 
 func main() {
